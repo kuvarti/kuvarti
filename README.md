@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Kuvarti's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuvarti)](https://github.com/kuvarti/github-readme-stats)
+
+
 <!--
 **kuvarti/kuvarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
