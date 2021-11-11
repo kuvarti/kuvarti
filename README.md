@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Kuvarti's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuvarti)](https://github.com/kuvarti/github-readme-stats)
+[![Kuvarti's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuvarti&show_icons=true&theme=radical)](https://github.com/kuvarti/github-readme-stats)
 
 
 <!--
