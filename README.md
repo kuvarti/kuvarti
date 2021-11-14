@@ -1,4 +1,6 @@
 ### Hi there 👋
+![denemegif](https://c.tenor.com/kpElBQWusCQAAAAC/magic-power.gif "power gif")
+
 
 [![Kuvarti's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuvarti&show_icons=true&theme=radical)](https://github.com/kuvarti/github-readme-stats)
 
