@@ -1,5 +1,4 @@
-### Hi there 👋
-![<img src="image.png" width="100%"/>](https://c.tenor.com/kpElBQWusCQAAAAC/magic-power.gif "power gif")
+<img src="https://c.tenor.com/kpElBQWusCQAAAAC/magic-power.gif" alt="drawing" width="100%" height="200px"/>
 
 
 [![Kuvarti's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuvarti&show_icons=true&theme=radical)](https://github.com/kuvarti/github-readme-stats)
