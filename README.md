@@ -1,8 +1,6 @@
-<img src="https://c.tenor.com/kpElBQWusCQAAAAC/magic-power.gif" alt="drawing" width="100%" height="200px"/>
+<img src="https://c.tenor.com/kpElBQWusCQAAAAC/magic-power.gif" alt="I'm Magic" width="100%" height="200px"/>
 
-<h1 style="text-align: center;">Hi, im Ahmet(Kuvarti) Eryilmaz</h1>
-
-\*\*Still editing this readme\*\*
+# Hi, im Ahmet(Kuvarti) Eryilmaz
 
 <a href="https://github.com/kuvarti/github-readme-stats">
   <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=kuvarti&show_icons=true&theme=radical" />
