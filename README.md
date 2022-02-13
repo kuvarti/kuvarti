@@ -2,6 +2,11 @@
 
 # Hi, im Ahmet(Kuvarti) Eryilmaz
 
+### There is my cheatsheets
+<a href="https://github.com/kuvarti/kuvarti/blob/main/gitcard.png">
+	<img align="left" width="45%" src="gitcard.png">
+</a>
+<br>
 <a href="https://github.com/kuvarti/github-readme-stats">
   <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=kuvarti&show_icons=true&theme=radical" />
 </a>
