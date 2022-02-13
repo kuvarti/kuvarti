@@ -4,9 +4,11 @@
 
 ### There is my cheatsheets
 <a href="https://github.com/kuvarti/Learn-Any/blob/main/cheatsheets/git/git.md">
-	<img align="left" width="45%" src="gitcard.png">
-</a><br />
+	<img width="45%" src="gitcard.png">
+</a>
 
+
+### My github stats
 <a href="https://github.com/kuvarti/github-readme-stats">
   <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=kuvarti&show_icons=true&theme=radical" />
 </a>
