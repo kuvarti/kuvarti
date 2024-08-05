@@ -1,7 +1,14 @@
-<img src="https://c.tenor.com/kpElBQWusCQAAAAC/magic-power.gif" alt="I'm Magic" width="100%" height="200px"/>
+<!-- <img src="https://c.tenor.com/kpElBQWusCQAAAAC/magic-power.gif" alt="I'm Magic" width="100%" height="200px"/> -->
 
-Hi 👋 My name is Ahmet Eryılmaz
-===============================
+<table width="100%" align="center" style="border:0;">
+<tr style="display:flex; justify-content:space-around; paddind:0;">
+<td colspan="2" style="padding:0; margin:0; text-align:center;">
+
+<h1>Ahmet ERYILMAZ</h1>
+<small>Software Developer</small>
+
+</td></tr>
+</table>
 
 Junior Developer
 ----------------
