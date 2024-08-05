@@ -1,22 +1,18 @@
 <!-- <img src="https://c.tenor.com/kpElBQWusCQAAAAC/magic-power.gif" alt="I'm Magic" width="100%" height="200px"/> -->
 
 <table width="100%" align="center" style="border:0;">
-<tr style="display:flex; justify-content:space-around; paddind:0;">
-<td colspan="2" style="padding:0; margin:0; text-align:center;">
+<tr style="display:flex; justify-content:space-around; paddind:0; border:0;">
+<td colspan="2" style="padding:0; margin:0; text-align:center; border:0;">
 
-<h1>Ahmet ERYILMAZ</h1>
-<small>Software Developer</small>
+<h1 style="margin:0; padding:0;">Ahmet ERYILMAZ</h1>
+<small style="margin:0; padding:0;">Software Developer</small>
 
 </td></tr>
-</table>
-
-Junior Developer
-----------------
+<tr style="display:flex; justify-content:space-around; paddind:0;border:0;">
+<td style="padding:0; margin:0;border:0;">
 
 ### Skills
-
 <p align="left">
-
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -32,11 +28,19 @@ Junior Developer
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-<!-- <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="CSS3" /></a> -->
+</td><td style="padding:0; margin:0; border:0;">
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Kuvarti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahmet-eryılmaz-883395174/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kuvarti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@kuvarti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 <a href= "https://www.upwork.com/freelancers/~019c122bec4969ff26"><img src="https://assets-global.website-files.com/603fea6471d9d8559d077603/6051efb8b899c575644858f2_logo.svg" width="70" height="32"/></a></p>
+
+</td></tr>
+</table>
+
+
+
+<!-- <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="CSS3" /></a> -->
 
 
 ### There is my cheatsheets
