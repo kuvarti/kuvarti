@@ -1,76 +1,52 @@
-<!-- <img src="https://c.tenor.com/kpElBQWusCQAAAAC/magic-power.gif" alt="I'm Magic" width="100%" height="200px"/> -->
+# Ahmet Eryılmaz
 
-<table width="100%" align="center" style="border:0;">
-<tr style="display:flex; justify-content:space-around; paddind:0; border:0;">
-<td colspan="2" style="padding:0; margin:0; text-align:center; border:0;">
+`@kuvarti` — a developer who likes building things end to end and keeping the code
+clean while doing it. Mostly at home in Go on the backend and Vue on the frontend,
+with a soft spot for well-typed code, sensible architecture, and docs that actually
+stay true.
 
-<h1 style="margin:0; padding:0;">Ahmet ERYILMAZ</h1>
-<small style="margin:0; padding:0;">Software Developer</small>
+---
 
-</td></tr>
-<tr style="display:flex; justify-content:space-around; paddind:0;border:0;">
-<td style="padding:0; margin:0;border:0;">
+## Tech I work with
 
-### Skills
+**Backend**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Tooling & infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## GitHub stats
+
+<!-- These cards render live on your profile. If you set a theme, keep both cards on the same one. -->
+
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://github.com/topics/go" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" width="36" height="36" alt="C#" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://github.com/topics/vue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="36" height="36" alt="CSS3" /></a>
-<a href="https://github.com/topics/typescript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kuvarti&show_icons=true&hide_border=true&count_private=true" alt="Ahmet Eryılmaz's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuvarti&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
-</td><td style="padding:0; margin:0; border:0;">
+---
 
-### Socials
+## Get in touch
 
-<p align="left"> <a href="https://www.github.com/Kuvarti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahmet-eryılmaz-883395174/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kuvarti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@kuvarti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-<a href= "https://www.upwork.com/freelancers/~019c122bec4969ff26"><img src="https://assets-global.website-files.com/603fea6471d9d8559d077603/6051efb8b899c575644858f2_logo.svg" width="70" height="32"/></a></p>
-
-</td></tr>
-</table>
-
-
-
-<!-- <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="CSS3" /></a> -->
-
-
-### There is my cheatsheets
-<a href="https://github.com/kuvarti/Learn-Any/blob/main/cheatsheets/git/git.md">
-	<img width="45%" src="gitcard.png">
-</a>
-
-
-### My github stats
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=kuvarti&show_icons=true&theme=radical" />
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuvarti&layout=compact&theme=radical" />
-
-
-<!--
-[![Kuvarti's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuvarti&show_icons=true&theme=radical)](https://github.com/kuvarti/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuvarti&layout=compact)](https://github.com/kuvarti/github-readme-stats)
--->
-
-<!--
-**kuvarti/kuvarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Email: [uzali.kafasi@gmail.com](mailto:ahmet.erylmaz14@gmail.com)
+- LinkedIn: [Ahmet Eryılmaz](https://www.linkedin.com/in/ahmeteryilmaz1)
+- GitHub: [@kuvarti](https://github.com/kuvarti)
+<!-- Add your own handles when you have them:
+- X: [@YOUR-HANDLE](https://x.com/YOUR-HANDLE)
 -->
